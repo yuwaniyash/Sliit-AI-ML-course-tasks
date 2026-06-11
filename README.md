@@ -1,5 +1,7 @@
 # Sliit-AI-ML-course-tasks
 
+Demo projects and tasks completed as part of the AI & Machine Learning online course at SLIIT (Sri Lanka Institute of Information Technology).
+
 # [Task 1 – Spam Detection](./Spam-Detection/Task1.ipynb)
 
 Builds a text classification model to detect whether an SMS message is spam or legitimate (ham).
