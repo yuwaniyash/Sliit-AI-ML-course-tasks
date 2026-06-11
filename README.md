@@ -1,6 +1,6 @@
 # Sliit-AI-ML-course-tasks
 
-# Task 1 – Spam Detection
+# [Task 1 – Spam Detection](./Task1.ipynb)
 
 Builds a text classification model to detect whether an SMS message is spam or legitimate (ham).
 
@@ -11,7 +11,7 @@ train-test split.
 
 **Tools:** Python, pandas, nltk, scikit-learn  
 
-# Task 2 – Mobile Price Classification
+# [Task 2 – Mobile Price Classification](./Task2.ipynb)
 
 Predicts the price range of a mobile phone (0 = low, 3 = high) based on hardware specifications 
 such as RAM, battery power, camera resolution, and more.
@@ -22,7 +22,7 @@ training, and model weights are saved to an .h5 file after evaluation.
 
 **Tools:** Python, pandas, scikit-learn, TensorFlow/Keras 
 
-# Task 3 – Sentiment Analysis
+# [Task 3 – Sentiment Analysis](./Task3.ipynb)
 
 Classifies the sentiment of tweets about US Airlines as positive, negative, or neutral using NLP.
 
